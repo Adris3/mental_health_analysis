@@ -8,7 +8,7 @@ RAW_DIR = "data/raw/"
 PROCESSED_DIR = "data/processed/"
 os.makedirs(PROCESSED_DIR, exist_ok=True)
 
-def load_data(filename="genz_social_edia_usage_1M.csv"):
+def load_data(filename="genz_social_media_usage_1M.csv"):
     df = pd.read_csv(
         os.path.join(RAW_DIR, filename),
         encoding="latin-1",
