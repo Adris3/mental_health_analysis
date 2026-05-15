@@ -11,9 +11,7 @@ os.makedirs(PROCESSED_DIR, exist_ok=True)
 def load_data(filename="genz_social_media_usage_1M.csv"):
     df = pd.read_csv(
         os.path.join(RAW_DIR, filename),
-        encoding="latin-1",
-        header=None,
-        names=["polarity", "id", "date", "query", "user", "text"]
+        encoding="latin-1"
     )
     return df
 
