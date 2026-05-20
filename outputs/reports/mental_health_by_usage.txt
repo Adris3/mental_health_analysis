@@ -1,0 +1,9 @@
+Trend Report: Mental Health by Daily Usage Intensity
+================================================
+
+Key Findings:
+- Low usage: 8.02 (n=543733)
+- Medium usage: 6.22 (n=443114)
+- High usage: 4.12 (n=13153)
+
+Insight: Mental health score decreases with higher daily usage.
