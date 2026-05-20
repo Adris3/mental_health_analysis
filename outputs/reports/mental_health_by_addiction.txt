@@ -1,0 +1,6 @@
+Trend Report: Mental Health by Addiction Level
+================================================
+Low: 8.61 (n=251220)
+Medium: 7.04 (n=589843)
+High: 5.37 (n=158937)
+Difference: 3.24
