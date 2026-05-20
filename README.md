@@ -48,3 +48,37 @@ Generated visualizations and reports for:
 - **Jupyter Notebooks**: Interactive analysis and documentation
 
 ## Project Structure
+├── notebooks/
+│ ├── eda.ipynb # Exploratory data analysis
+│ ├── analysis.ipynb # Statistical hypothesis tests
+│ └── trends.ipynb # Trend analysis and visualizations
+├── data/
+│ ├── raw/ # Original dataset
+│ └── processed/ # Cleaned data
+├── outputs/
+│ ├── figures/ # Generated visualizations
+│ └── reports/ # Analysis reports
+└── README.md
+
+
+## How to Reproduce
+1. Ensure Python 3.8+ and required packages are installed
+2. Navigate to the notebooks directory
+3. Run notebooks in order: `eda.ipynb` → `analysis.ipynb` → `trends.ipynb`
+4. Outputs (figures and reports) will be generated to `/outputs/`
+
+## Key Insights for Stakeholders
+- **For Health Professionals**: Strong evidence that social media usage is correlated with mental health outcomes
+- **For Platform Developers**: Night-time usage shows significant mental health impact
+- **For Researchers**: Statistical validation of relationship using rigorous methods (p-values, effect sizes)
+
+## Technologies Demonstrated
+✓ Statistical hypothesis testing at scale (1M records)
+✓ Multi-method analysis approach (EDA + statistical + visualization)
+✓ Reproducible analysis workflows
+✓ Professional data documentation and reporting
+
+---
+**Author**: Advait Risbud
+**Last Updated**: May 20 2026  
+**Status**: Analysis Complete
