@@ -47,19 +47,6 @@ Generated visualizations and reports for:
 - **SciPy**: Statistical testing (ANOVA, t-tests, correlation analysis)
 - **Jupyter Notebooks**: Interactive analysis and documentation
 
-## Project Structure
-├── notebooks/
-│ ├── eda.ipynb # Exploratory data analysis
-│ ├── analysis.ipynb # Statistical hypothesis tests
-│ └── trends.ipynb # Trend analysis and visualizations
-├── data/
-│ ├── raw/ # Original dataset
-│ └── processed/ # Cleaned data
-├── outputs/
-│ ├── figures/ # Generated visualizations
-│ └── reports/ # Analysis reports
-└── README.md
-
 
 ## How to Reproduce
 1. Ensure Python 3.8+ and required packages are installed
